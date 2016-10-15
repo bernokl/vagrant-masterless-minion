@@ -4,3 +4,4 @@ circle.yml
 *.swp
 *.box
 *.vagrant
+*.img
