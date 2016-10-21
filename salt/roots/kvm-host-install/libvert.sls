@@ -5,6 +5,9 @@ libvert_install:
         - libvirt-bin
     - service: running
 
+libvirt_keys:
+  virt.keys
+
 python-libvirt:
   pkg.installed: []
 
